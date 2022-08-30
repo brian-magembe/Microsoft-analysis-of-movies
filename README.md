@@ -36,8 +36,12 @@ considered and how likely they can affect the organization.
 The project used 3 datasets from the 6 datasets that were provided, this is because they are the 
 ones that provides most relevant variable which can provide meaningful insights.
 # Genre counts against genre categories
+The visual below shows the relationship between genre counts and genre categories. From the findings below it is clear that Documentary and Drama are mostly used in film production.
 ![image](https://user-images.githubusercontent.com/73349817/187419358-5ce20b7e-249b-4e9a-9b59-69233cddc3d5.png)
 # Language counts against langauge
+English is the most commonly used language in Film production.Therefore will be wise for Microsoft to use English in film production.
 ![image_language](https://user-images.githubusercontent.com/73349817/187419500-a13f3bb2-dae2-4272-826f-64bb461385ad.png)
 # Profit against months 
+The best months will provide information to Microsoft when is it likely to create 
+more profits which will maintain continuous sustainability of the organization . From the findings it is also clear to know the best months.
 ![image_time](https://user-images.githubusercontent.com/73349817/187419536-552f3f56-378c-4f63-8de3-d3581060a422.png)
