@@ -1,25 +1,27 @@
 # Microsoft-analysis-of-movies
 # Microsoft Film Project
+![microsoft image](https://user-images.githubusercontent.com/73349817/187418766-fc99e066-66de-433a-96fb-b66ec9019184.jpg)
+
 # Overview 
- One of the key factor that promotes development is expansion of locally and 
+One of the key factor that promotes development is expansion of locally and 
 international firms, this plays an important role in opening up so many 
 opportunities.
- The decision by Microsoft company to enter into the creation of studio is 
+The decision by Microsoft company to enter into the creation of studio is 
 likely more important to create numerous opportunities such creation of 
 employment and upgrading of existing skills in youths and other experienced 
 professionals.
- However, its entry into the market has to be taken into consideration by its 
+However, its entry into the market has to be taken into consideration by its 
 stakeholders to ensure continuous success of the organization by ensuring 
 that it can sustain itself continuously. Therefore, it is very crucial for 
 Microsoft to explore what types of films are performing better, this will 
 successfully help the organization to know the films it will create and other 
 factors that it should take into consideration.
 # Business Understanding 
- The aim of the project is to give meaningful insights to Microsoft Company which 
+ The aim of the project is to give meaningful insights to Microsoft Company which 
 type of films it should create in order to promote successful scope of the goals of 
 the organization. However, also other factors should be put into consideration 
 such as best time to produce language to be mostly used in the film.
- Therefore, this project provides answers to what type of film should the 
+ Therefore, this project provides answers to what type of film should the 
 organization be involved in and the most suitable language to be used and best 
 time to produce the film.
  The best months will provide information to Microsoft when is it likely to create 
