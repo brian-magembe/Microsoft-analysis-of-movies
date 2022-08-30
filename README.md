@@ -37,7 +37,7 @@ The project used 3 datasets from the 6 datasets that were provided, this is beca
 ones that provides most relevant variable which can provide meaningful insights.
 # Genre counts against genre categories
 ![image](https://user-images.githubusercontent.com/73349817/187419358-5ce20b7e-249b-4e9a-9b59-69233cddc3d5.png)
-
 # Language counts against langauge
-
+![image_language](https://user-images.githubusercontent.com/73349817/187419500-a13f3bb2-dae2-4272-826f-64bb461385ad.png)
 # Profit against months 
+![image_time](https://user-images.githubusercontent.com/73349817/187419536-552f3f56-378c-4f63-8de3-d3581060a422.png)
